@@ -295,6 +295,7 @@ public class Projekt {
         // ZapiszDoBazy(G6, "Baza.obj");
         // ZapiszDoBazy(G7, "Baza.obj");
         // ZapiszDoBazy(G8, "Baza.obj");
+        //
         
         //UsunObiektZBazy("beta centaur", "Baza.obj");
         //WyszukajWGwiazdozbiorze("centaur", "Baza.obj");
